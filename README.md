@@ -5,8 +5,9 @@ I'm a Mathematics and Data Science student at Truman State University, minoring 
 
 ## Projects
 
+<!--
 ### Interactive HR-Diagram
-
+-->
 
 ### Playfair Recreation
 
